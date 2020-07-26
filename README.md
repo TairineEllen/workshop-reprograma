@@ -4,5 +4,5 @@
 
 Projeto desenvolvido no workshop de back-end do {Reprograma}
 
-JavaScript foi utilizado para desenvolver uma calculadora freelancer, na qual calcula-se o usuário insere o valor do salário, 
-das horas trabalhas e tem como resultado o valor da hora de trabalho e o valor total do projeto.
+JavaScript foi utilizado para desenvolver uma calculadora freelancer, na qual o usuário insere o valor do salário e 
+das horas trabalhadas, e tem como resultado o valor da hora de trabalho e o valor total do projeto.
